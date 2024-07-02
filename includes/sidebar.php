@@ -5,7 +5,7 @@
                 <span class="hamburger-inner"></span>
             </span>
         </button>
-        <a class="logo-link" href="https://bac.fiide10.ro">
+        <a class="logo-link" href="https://evaluare.fiide10.ro">
             <img src="../images/logo.png" alt="Logo">
         </a>
     </div>
@@ -15,16 +15,15 @@
 <div class="sidebar">
     <div class="close-btn" onclick="closeSidebar()">&times;</div>
     <div class="logo">
-        <a href="https://bac.fiide10.ro"> <img src="../images/logo.png" alt="Logo" width="200px"></a>
+        <a href="https://evaluare.fiide10.ro"> <img src="../images/logo.png" alt="Logo" width="200px"></a>
     </div>
     <ul>
-        <li><a href="https://bac.fiide10.ro/"><i class="icon-dash"></i> Dashboard</a></li>
-        <li><a href="https://bac.fiide10.ro/info.php"><i class="icon-info"></i> Informații utile</a></li>
-        <li><a href="https://bac.fiide10.ro/results.php"><i class="icon-results"></i> Rezultate</a></li>
-        <li><a href="https://bac.fiide10.ro/subiecte.php"><i class="icon-subjects"></i> Subiecte</a></li>
+        <li><a href="https://evaluare.fiide10.ro/"><i class="icon-dash"></i> Dashboard</a></li>
+        <li><a href="https://evaluare.fiide10.ro/info.php"><i class="icon-info"></i> Informații utile</a></li>
+        <li><a href="https://evaluare.fiide10.ro/results.php"><i class="icon-results"></i> Rezultate</a></li>
+        <li><a href="https://evaluare.fiide10.ro/subiecte.php"><i class="icon-subjects"></i> Subiecte</a></li>
         <li><a href="https://onedu.ro/digitalizam"><i class="icon-training"></i> Antrenează-te</a></li>
         <li><a href="https://onedu.ro/digitalizam"><i class="icon-study"></i> Învață de 10</a></li>
-        <li><a href="https://onedu.ro/digitalizam"><i class="icon-college"></i> Vreau la facultate</a></li>
     </ul>
 </div>
 
@@ -38,6 +37,6 @@
     gtag('config', 'G-F5DDDBNQ2J');
 </script>
 
-<meta name="description" content="Tot ce trebuie să știi despre Bac 2024.">
-<meta name="keywords" content="subiecte bac 2024, bacalaureat 2024, bac, bacalaureat, examen 2024, scoala 2024,
-     ce a picat la bac, ce pica la romana, ce a picat la romana, rezultate bac 2024, rezultate examen 2024">
+<meta name="description" content="Tot ce trebuie să știi despre Evaluarea Națională 2024.">
+<meta name="keywords" content="evaluare nationala, rezultate evaluare 2024, rezultate 2024, unde am intrat la liceu, admitere liceu
+liceu 2024, evaluare edu">
