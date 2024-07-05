@@ -62,11 +62,11 @@ $result = $conn->query($sql);
             <div class="side-column">
                 <div class="calendar">
                     <h2>Calendar 2024</h2>
-                    <div class="calendar-event" data-date="today">03.07, până la ora 14:00 - Rezultate înaintea
+<!--                    <div class="calendar-event" data-date="today">03.07, până la ora 14:00 - Rezultate înaintea-->
                         contestațiilor
-                    </div>
-                    <div class="calendar-event">03.07 16:00-19:00 - Depunere contestațiilor</div>
-                    <div class="calendar-event">04.07 08:00-12:00 - Depunere contestațiilor</div>
+<!--                    </div>-->
+<!--                    <div class="calendar-event">03.07 16:00-19:00 - Depunere contestațiilor</div>-->
+<!--                    <div class="calendar-event">04.07 08:00-12:00 - Depunere contestațiilor</div>-->
                     <div class="calendar-event">09.00 12:00 - Afișarea rezultatelor finale</div>
                     <div class="calendar-event">11-12 15-22.07 - Completarea opțiunilor în fișele de înscriere și verificarea corectitudinii datelor</div>
                     <div class="calendar-event">24.07 - Comunicarea rezultatelor repartizării la liceu</div>
@@ -80,11 +80,11 @@ $result = $conn->query($sql);
                     </div>
                     <div class="statistic-item">
                         <p>Candidați prezenți</p>
-                        153.013
+                        153.903
                     </div>
                     <div class="statistic-item">
                         <p>Candidați cu note peste 5</p>
-                        0
+                        113.708
                     </div>
                 </div>
             </div>
